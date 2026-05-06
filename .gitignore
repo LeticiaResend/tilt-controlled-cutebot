@@ -1,0 +1,24 @@
+# Build folders
+Output/
+Debug/
+Release/
+
+# Object files
+*.o
+*.obj
+
+# Binaries
+*.elf
+*.hex
+*.bin
+
+# Maps
+*.map
+
+# SEGGER
+*.emSession
+*.jlink
+
+# OS
+.DS_Store
+Thumbs.db
