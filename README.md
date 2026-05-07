@@ -92,4 +92,4 @@ This project was developed with **SEGGER Embedded Studio** targeting the nRF5283
 
 - [LSM303AGR — STMicroelectronics](https://www.st.com/resource/en/datasheet/lsm303agr.pdf)
 - [nRF52833 Product Specification — Nordic Semiconductor](https://docs.nordicsemi.com/bundle/ps_nrf52833/page/keyfeatures_html5.html)
-- [CuteBOT Pro Protocol — Elecfreaks](https://github.com/elecfreaks/pxt-Cutebot-Pro)
+- [https://github.com/microbit-foundation/microbit-v2-hardware/blob/main/V2.21/MicroBit_V2.2.1_nRF52820%20schematic.PDF]
